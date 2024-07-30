@@ -70,6 +70,7 @@
 - **Cross-Language Data Sharing**: Exchanging data between different programming languages.
 - **Object Persistence**: Saving and retrieving complex objects.
 
+![yaml_image](./assets/yaml.png)
 ---
 
 ## YAML Examples with Small Explanations 📝
@@ -203,6 +204,10 @@ player_games:
       - shoulder
       - shin
 ```
+
+![yaml_data_structure](./assets/yaml_datastructure.png)
+
+--- 
 
 ### YAML - Advanced Features 🌟
 
